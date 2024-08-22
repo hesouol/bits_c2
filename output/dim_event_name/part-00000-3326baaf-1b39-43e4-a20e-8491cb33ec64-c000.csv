@@ -1,0 +1,17 @@
+event_name
+level_change_up
+2fa_wrong
+account_suspended
+login
+2faoff
+document_verified
+email_verified
+country_updated
+account_terminated
+api_key_created
+api_key_deleted
+login_api
+level_change_down
+cookies_accepted
+2faon
+2falogin
