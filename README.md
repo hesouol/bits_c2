@@ -16,7 +16,7 @@ Run:
     $ python3 -m notebook 
 ~~~
 
-    Open the bitso.ipynb notebook and run the cells sequentially.
+Open the bitso.ipynb notebook and run the cells sequentially.
 
 
 Structure
